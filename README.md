@@ -1,9 +1,6 @@
-### Hi there 👋
+### what's up 👋
 
-<!--
-**nnbraga/nnbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-my name is nathan 
 
 - 🔭 I’m currently working on alura
 - 🌱 I’m currently learning javascript language
