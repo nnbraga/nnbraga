@@ -2,6 +2,8 @@
 
 -my name is nathan 
 
-- 🔭 I’m currently working on alura
-- 🌱 I’m currently learning javascript language
+- A palavra **limão** deve ser destacada.
+- > Escrito por Alura Start
+
+
 
